@@ -1,10 +1,10 @@
 var Config = (function(){
     var config = {
         //modify these
-        'name'          : _CHAPTER_NAME_,
-        'id'            : _CHAPTER_ID_,
-        'google_api'    : _API_KEY_,
-        'pwa_id'        : _PICASA_ALBUM_ID, //picasa web album id
+        'name'          : 'GDG Z&uuml;rich',
+        'id'         	: '117715978948849333403',
+        'google_api'    : 'AIzaSyCxVF8-3e2lOfG6uvS-JbkzMYIQPVnJ5c8',
+        'pwa_id'        : '5801872673509185361', //picasa web album id currently points to GDG DevFest ZH 2012
         //custom stuff
         'cover_photo'   : true, //best results make sure you have 940x180 image
         'cover_color'   : '#ffffff',
